@@ -57,6 +57,7 @@ ul li {
 /* Add a "checked" mark when clicked on */
 ul li.checked::before {
 	content: url(checkmark.png);
+	zoom: 5%;
 /*	
 	position: absolute;
 	border-color: #fff;
@@ -92,7 +93,7 @@ ul li:hover {
 
 /* Formats the checked list items */
 ul li.checked {
-	background:rgba(0, 255, 115, 0.685);
+	background:rgba(2, 94, 43, 0.685);
 	color: #fff;
 	text-decoration: line-through;
 }
