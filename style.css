@@ -41,7 +41,7 @@ ul li {
 	text-align: center;
 	cursor: pointer;
 	position: relative;
-	padding: 10px 8px 10px 30px;
+	padding: 10px 8px 10px 0px; /*Addjusted final number to allow the list to sit flush against the left side of the screen*/
 	background:rgba(255, 19, 19, 0.826);
 	font-size: 20px;
 	transition: 0.2s;
