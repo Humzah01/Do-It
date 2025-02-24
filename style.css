@@ -38,7 +38,7 @@ ul {
 
 /* Formats the lists' items */
 ul li {
-	text-align: center;
+	text-align: left;
 	cursor: pointer;
 	position: relative;
 	padding: 10px 8px 10px 0px; /*Addjusted final number to allow the list to sit flush against the left side of the screen*/
