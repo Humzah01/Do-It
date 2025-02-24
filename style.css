@@ -58,7 +58,7 @@ ul li {
 ul li.checked::before {
 	content: url(checkmark.png);
 	zoom: 5%;
-/*	
+/*
 	position: absolute;
 	border-color: #fff;
 	border-style: solid;
@@ -69,9 +69,9 @@ ul li.checked::before {
 	height: 15px;
 	width: 7px;
 
-*/
+	*/
   }
-  
+
   /* Style the close button */
 .close {
 	position: absolute;
